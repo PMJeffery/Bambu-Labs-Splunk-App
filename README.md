@@ -73,4 +73,5 @@ splunk:
 - [ ] Add Bambu Lab printer image logic
 - [ ] Fix dashboard reports to auto refresh
 - [ ] Fix reports that don't show latest data
+- [ ] Create eventtypes for different printer serial numbers
 

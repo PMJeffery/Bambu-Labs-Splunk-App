@@ -1,9 +1,13 @@
 
 Foreword: This app has zero official affiliation with Bambu Labs, Home Assistant or Splunk.  This is a completely voluntary and free Splunk App for anyone to use. 
 
-# Bambu Labs Splunk App
+# Dashboards for 3D Printers
 ## Why?
-Ingest data of your Bambu Lab Printer from Home Assistant and use it for troubleshooting and progress tracking of your prints and printers.  There is really no good way of tracking your print progress or status of your Bambu Lab printer(s) outside of the desktop or mobile app.  
+There is really no good way of tracking your print progress or status of your Bambu Lab printer(s) outside of the desktop or mobile app.  
+
+Tested on Splunk Enterprise 9.3.x, Home Assistant 2024.12.x, Bambu Labs P1S w/ AMS (latest firmware as of 12/2024)
+
+Current Data Flow: Bambu Labs P1S > Home Assistant > Splunk
 
 ## How?
 ### Prerequisites 
@@ -60,3 +64,13 @@ splunk:
 1. The default index used is 'hassio' 
 	- If you are using a different index, you can do a find-and-replace accordingly 
 	- Dashboard code is located in $SPLUNK/etc/apps/3d_printer/local/data/ui/views
+
+
+
+## To-Do List
+- [ ] Add AMS visualization
+- [ ] Add tabs for print farm, basic stats, historical stats
+- [ ] Add Bambu Lab printer image logic
+- [ ] Fix dashboard reports to auto refresh
+- [ ] Fix reports that don't show latest data
+

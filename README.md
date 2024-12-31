@@ -75,7 +75,7 @@ splunk:
 - [ ] Add Instructions dashboard w/ MarkDown text
 - [ ] Fix dashboard reports to auto refresh
 - [ ] Fix reports that don't show latest data
-- [ ] Create eventtypes for different printer serial numbers
+- [ ] Create saerch macross for different printer serial numbers, indexes, etc.
 - [x] ~~Upload current build~~
 - [x] ~~Add SVG Icons~~
 

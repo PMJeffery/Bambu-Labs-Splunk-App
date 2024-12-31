@@ -71,9 +71,11 @@ splunk:
 ## To-Do List
 - [ ] Add AMS visualization
 - [ ] Add tabs for print farm, basic stats, historical stats
-- [ ] Add Bambu Lab printer image logic
+- [ ] Add Bambu Lab printer image logic for AMS Hex Color codes
+- [ ] Add Instructions dashboard w/ MarkDown text
 - [ ] Fix dashboard reports to auto refresh
 - [ ] Fix reports that don't show latest data
 - [ ] Create eventtypes for different printer serial numbers
+- [x] ~~Upload current build~~
 - [x] ~~Add SVG Icons~~
 

@@ -59,6 +59,11 @@ splunk:
   verify_ssl: false
   name: homeassistant
 ```
+Splunk Dashboard Studio Example (v0.0.1)
+<p align="left">
+  <img src="DS-01-Basic.png" alt="Example in Dashboard Studio">
+</p>
+
 
 ### Splunk App Configuration
 1. The default index used is 'hassio' 

@@ -1,5 +1,5 @@
 
-Foreword: This app has zero official affiliation with Bambu Labs, Home Assistant or Splunk.  This is a completely voluntary and free Splunk App for anyone to use. 
+Foreword: This app has zero affiliation with Bambu Labs, Home Assistant or Splunk.  This is a completely voluntary and free Splunk App for anyone to use. 
 
 # Dashboards for 3D Printers
 ## Why?

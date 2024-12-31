@@ -74,4 +74,5 @@ splunk:
 - [ ] Fix dashboard reports to auto refresh
 - [ ] Fix reports that don't show latest data
 - [ ] Create eventtypes for different printer serial numbers
+- [x] Add SVG Icons
 

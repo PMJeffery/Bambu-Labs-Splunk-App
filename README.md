@@ -65,7 +65,8 @@ splunk:
 	- If you are using a different index, you can do a find-and-replace accordingly 
 	- Dashboard code is located in $SPLUNK/etc/apps/3d_printer/local/data/ui/views
 
-
+### Acknowledgements
+- SVG Icons from svgrepo.com
 
 ## To-Do List
 - [ ] Add AMS visualization
@@ -74,5 +75,5 @@ splunk:
 - [ ] Fix dashboard reports to auto refresh
 - [ ] Fix reports that don't show latest data
 - [ ] Create eventtypes for different printer serial numbers
-- [x] Add SVG Icons
+- [x] ~~Add SVG Icons~~
 
